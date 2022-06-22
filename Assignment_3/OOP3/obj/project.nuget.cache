@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KECPCj8Vt6wCx4Zl7endYz8RF91a7XYkruHEwX51BKRShBfzF94ZfpMdKw9MsUFX7Exlzsk9Tp29GrqP+EWEkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernes\\Documents\\GitHub\\Object-Oriented_Programming-Assignment\\Assignment_3\\OOP3\\OOP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
